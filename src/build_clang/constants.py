@@ -44,7 +44,7 @@ LLVM_VERSION_MAP = {
     '18': '18.1.0-rc2-yb-1',
 }
 
-DEFAULT_GITHUB_ORG = 'yugabyte'
+DEFAULT_GITHUB_ORG = 'abhinab-yb'
 
 BUILD_CLANG_SCRIPTS_ROOT_PATH = os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__))))
